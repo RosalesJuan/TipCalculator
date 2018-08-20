@@ -1,10 +1,10 @@
-# Pre-work - *I Tip You*
+# Pre-work - *Tip You*
 
-**I Tip You** is a tip calculator application for iOS.
+**Tip You** is a tip calculator application for iOS.
 
 Submitted by: **Juan Rosales**
 
-Time spent: **10-15** hours spent in total
+Time spent: **10-12** hours spent in total
 
 ## User Stories
 
@@ -22,18 +22,21 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+*A more friendly/compelling UI
+*Settings button
+*More options for percentages
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///Users/juanr/Desktop/Tip.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The lack of experience in using swift and app developing was a bit of a challenge. Implementing the settings button and making it work as desired proved the hardest. I managed to make the button work and it did take you to another view, but once there I could not figure out how to make the tip percentages work for the function on the main view. It was a fun challenge and would definitely want to learn more.  
 
 ## License
 
